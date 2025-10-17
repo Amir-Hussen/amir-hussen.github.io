@@ -3,7 +3,7 @@ layout: home
 title: Amirhossein Amini
 ---
 
-I'm a Ph.D. Student at **RPI** advised by **Prof. Meng Wang**. I study the **training dynamics and generalization of Transformers**—especially **in‑context learning (ICL)** and **chain‑of‑thought (CoT)** tasks.
+I'm a Ph.D. Student at **RPI** advised by **Prof. Meng Wang**. I study the **training dynamics and generalization of Transformers**—especially **in‑context learning (ICL)** and **chain‑of‑thought (CoT)** tasks. Ijoined **RPI** in Fall 2023. Previously, I completed my undergraduate and Master's both at University of Tehran, Iran.
 
 - **Research interests:** Training Dynamics, Deep Learning, Transformers, Generalization Analysis, Optimization
 - **Tools:** Python, PyTorch, NumPy, LaTeX
