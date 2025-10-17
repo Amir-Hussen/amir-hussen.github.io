@@ -16,11 +16,11 @@ I'm a Ph.D. Student at **RPI** advised by **Prof. Meng Wang**. I study the **tra
 ## Selected Projects
 - **ICL/CoT Dynamics of Transformers (2024– )** — Theory + PyTorch code.
 - **Image Captioning (Flickr8K)** — Transformer-based image captioning model, BLEU score reported.
-- **Machine Translation (Multi30K)** — Transformer-based seq2seq model, BLEU = xx.xx.
+- **Machine Translation (Multi30K)** — Transformer-based seq2seq model, reported BLEU.
 
 
 ## CV
-- **[Download PDF](cv.pdf)** 
+- **[Download PDF](Amirhossein_Amini_CV.pdf)**
 
 ---
 
