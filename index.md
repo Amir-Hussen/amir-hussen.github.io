@@ -11,7 +11,7 @@ I'm a Ph.D. Student at **RPI** advised by **Prof. Meng Wang**. I study the **tra
 
 
 ## Publications / Preprints
-- (In preparation) A. Amini, M. Wang. *Training Dynamics of a Two-Head Transformer on In-Context Learning Tasks*
+- (In preparation) A. Amini, M. Wang. *Training Dynamics of Transformers*
 
 ## Selected Projects
 - **ICL/CoT Dynamics of Transformers (2024– )** — Theory + PyTorch code.
@@ -19,8 +19,7 @@ I'm a Ph.D. Student at **RPI** advised by **Prof. Meng Wang**. I study the **tra
 - **Machine Translation (Multi30K)** — Transformer-based seq2seq model, reported BLEU.
 
 
-## CV
-- **[Download PDF](Amirhossein_Amini_CV.pdf)**
+
 
 ---
 
